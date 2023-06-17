@@ -1,0 +1,2 @@
+# azuredevopspractice
+CI pipeline practice
